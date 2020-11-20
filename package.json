@@ -1,0 +1,25 @@
+{
+  "name": "ethereum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmarcelodn/ethereum-presidents-elections.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hmarcelodn/ethereum-presidents-elections/issues"
+  },
+  "homepage": "https://github.com/hmarcelodn/ethereum-presidents-elections#readme",
+  "dependencies": {
+    "create-react-app": "^4.0.0"
+  }
+}
